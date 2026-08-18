@@ -11,19 +11,31 @@
  */
 class Solution {
 public:
-    void find(TreeNode * root, vector<int> &ans){
-        if(root==NULL){
+    void iterative(TreeNode * root , vector<int>&ans){
+        if(!root){
             return ;
         }
 
-        ans.push_back(root->val);
-        find(root->left,ans);
-        find(root->right ,ans);
+        stack<TreeNode*>s ;
+        s.push(root);
+   
+        while(!s.empty()){
+            root = s.top();
+            s.pop();
+            ans.push_back(root->val);
+            if(root->right){
+                s.push(root->right);
+            }
+            if(root->left){
+                s.push(root->left);
+            }
+        }
     }
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        find(root, ans);
-        return ans;
-    }
+        vector<int>ans ;
 
+        iterative(root ,ans);
+        return ans;
+
+    }
 };
