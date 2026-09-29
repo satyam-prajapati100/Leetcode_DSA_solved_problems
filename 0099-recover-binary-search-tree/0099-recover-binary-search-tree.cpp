@@ -11,31 +11,53 @@
  */
 class Solution {
 public:
-    void bst(TreeNode *root , TreeNode* &pre , TreeNode *&first ,TreeNode * &second){
-        if(!root) return ;
+    void bst(TreeNode* root , TreeNode* &pre ,TreeNode* &first , TreeNode * &second){
+        while(root){
+            if(!root->left){
+                if(pre != NULL && pre->val > root->val){
+                    if(first == NULL){
+                        first = pre ;
+                    }
+                    second = root ;
 
-        bst(root->left ,pre , first , second) ;
+                }
+                pre =root ;
+                root = root->right ;
+                
 
-        if(pre!= NULL && pre->val > root->val){
-           if(first==NULL){
-            first =pre ;
-           }
+            }
+            else {
+                TreeNode * curr = root->left ;
 
-           second = root ;
+                while(curr->right && curr->right != root){
+                    curr = curr->right ;
+                }
+                if(curr->right == NULL){
+                    curr->right = root ;
+                    root =root->left ;
+                }
+                else {
+                    curr->right = NULL ;
+                    if(pre != NULL && pre->val > root->val){
+                        if(first == NULL){
+                            first = pre ;
+                        }
+                        second = root ;
+
+                    }
+                    pre =root ;
+                    root = root->right ;
+                    
+                }
+            }
         }
-
-        pre = root ;
-
-        bst(root->right , pre , first , second);
-
-      
     }
     void recoverTree(TreeNode* root) {
-        TreeNode* pre =NULL ;
-        TreeNode* first = NULL ;
-        TreeNode* second = NULL ;
+        TreeNode* pre = NULL ;
+        TreeNode* first =NULL ;
+        TreeNode* second= NULL ;
 
-        bst(root , pre , first ,second);
-        swap(first->val ,second->val);
+        bst(root, pre , first , second);
+        swap(first->val , second->val);
     }
 };
