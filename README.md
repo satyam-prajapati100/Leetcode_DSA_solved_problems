@@ -148,6 +148,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0189-rotate-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0485-max-consecutive-ones) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
@@ -184,9 +185,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
