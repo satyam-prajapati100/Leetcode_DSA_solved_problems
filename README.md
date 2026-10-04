@@ -153,6 +153,7 @@
 | [0485-max-consecutive-ones](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0485-max-consecutive-ones) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,8 +194,13 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
