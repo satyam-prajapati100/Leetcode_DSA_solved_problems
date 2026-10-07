@@ -118,6 +118,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -125,6 +126,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -154,6 +156,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
@@ -167,6 +170,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
@@ -219,4 +223,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
