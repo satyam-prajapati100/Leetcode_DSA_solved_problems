@@ -166,6 +166,7 @@
 | [0485-max-consecutive-ones](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0485-max-consecutive-ones) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Divide and Conquer
 |  |
@@ -206,6 +207,7 @@
 | [0189-rotate-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
 |  |
