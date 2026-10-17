@@ -130,6 +130,7 @@
 | [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -146,6 +147,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0485-max-consecutive-ones) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Math
@@ -242,4 +246,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0054-spiral-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
