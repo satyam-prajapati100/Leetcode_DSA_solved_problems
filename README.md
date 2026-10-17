@@ -156,6 +156,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
@@ -222,6 +223,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
