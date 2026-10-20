@@ -11,9 +11,11 @@ public:
             Prefixsum+=nums[i];
             if(m.count(Prefixsum-k)){
                 total+=m[Prefixsum-k];
-               
+                m[Prefixsum]++;
             }
-            m[Prefixsum]++;
+            else {
+                m[Prefixsum]++ ;
+            }
           
         }
 
