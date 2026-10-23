@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
@@ -265,6 +266,11 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
