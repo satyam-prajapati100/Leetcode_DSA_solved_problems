@@ -152,6 +152,7 @@
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
@@ -176,6 +177,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -262,12 +264,14 @@
 | [0560-subarray-sum-equals-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## String
 |  |
