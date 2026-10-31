@@ -118,6 +118,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
@@ -274,6 +275,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
@@ -283,5 +285,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
