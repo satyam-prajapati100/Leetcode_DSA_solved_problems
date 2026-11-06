@@ -189,6 +189,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## String
 |  |
 | ------- |
