@@ -129,6 +129,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
@@ -182,6 +183,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
