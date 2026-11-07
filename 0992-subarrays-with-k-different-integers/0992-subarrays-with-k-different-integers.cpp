@@ -1,63 +1,45 @@
 class Solution {
 public:
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        int total = 0 ;
-
-        // Atleast(k)-Atleast(k+1)
         unordered_map<int , int>freq;
-        int start=0 , end=0 , n = nums.size() ,count=0 ;
 
-        // count of different integer in that window 
+        int start=0 , end=0 , n=nums.size() , total=0 , count=0 ;
 
         while(end<n){
-            freq[nums[end]]++ ; // add the freq of that number 
+            freq[nums[end]]++ ;
             if(freq[nums[end]]==1)
-            count++ ;
+            count++;
 
-            // Increase the windoe size till 
-            // number if different integer equals to k  
-
-            // Decrease the window size 
-            while(count == k){
-                total+=n-end;
-                freq[nums[start]]--;
+            while(count >k){
+                freq[nums[start]]--; 
                 if(freq[nums[start]]==0)
                 count--;
-
                 start++;
-
             }
-            end++ ; 
 
+            total+= end-start+1 ;
+            end++ ;
         }
-
-        start =0 , end = 0 , count=0 ;
+        start=0 , end=0 , count= 0 ;
         freq.clear() ;
-        k++ ;
-       
-         while(end<n){
-            freq[nums[end]]++ ; // add the freq of that number 
+        k-- ;
+        
+        while(end<n){
+            freq[nums[end]]++;
             if(freq[nums[end]]==1)
-            count++ ;
+            count++;
 
-            // Increase the windoe size till 
-            // number if different integer equals to k  
-
-            // Decrease the window size 
-            while(count == k){
-                total-=n-end;
-                freq[nums[start]]--;
+            while(count >k){
+                freq[nums[start]]--; 
                 if(freq[nums[start]]==0)
                 count--;
-
                 start++;
-
             }
-            end++ ; 
 
+            total-= end-start+1 ;
+            end++ ;
         }
+        return total ;
 
-        return total;
-
-     }
+    }
 };
