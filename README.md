@@ -156,6 +156,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0704-binary-search](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -181,6 +182,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0992-subarrays-with-k-different-integers) |
