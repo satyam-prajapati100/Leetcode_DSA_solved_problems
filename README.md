@@ -152,6 +152,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
