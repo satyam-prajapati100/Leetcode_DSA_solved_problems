@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1834-single-threaded-cpu](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1834-single-threaded-cpu) |
 ## Binary Lifting
@@ -187,6 +189,7 @@
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0704-binary-search) |
@@ -307,4 +310,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0424-longest-repeating-character-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
