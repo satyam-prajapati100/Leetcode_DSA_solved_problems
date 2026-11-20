@@ -180,6 +180,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
