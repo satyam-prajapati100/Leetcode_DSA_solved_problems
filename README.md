@@ -126,6 +126,7 @@
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -140,6 +141,7 @@
 | [0268-missing-number](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1834-single-threaded-cpu](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1834-single-threaded-cpu) |
 ## Binary Lifting
@@ -193,6 +195,7 @@
 | [0435-non-overlapping-intervals](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -251,6 +254,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/1834-single-threaded-cpu) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -273,6 +277,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -315,4 +320,5 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/satyam-prajapati100/Leetcode_DSA_solved_problems/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
